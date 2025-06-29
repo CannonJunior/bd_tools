@@ -1,0 +1,7 @@
+name,description,weight,max_score,category
+Content Quality,Overall quality and accuracy of the content,3.0,10,Core
+Readability,How easy the document is to read and understand,2.5,10,Core
+Organization,Structure and logical flow of information,2.0,10,Structure
+Completeness,Coverage of all necessary topics and details,2.0,10,Core
+Style,Appropriate writing style and tone for audience,1.5,10,Presentation
+Innovation,Novel ideas and creative approaches presented,1.0,10,Value

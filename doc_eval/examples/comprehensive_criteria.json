@@ -1,0 +1,80 @@
+{
+  "criteria": [
+    {
+      "name": "Technical Accuracy",
+      "description": "Factual correctness and technical precision of information presented",
+      "weight": 3.0,
+      "max_score": 10,
+      "category": "Content Quality"
+    },
+    {
+      "name": "Clarity and Readability", 
+      "description": "How clearly and understandably the document communicates its message",
+      "weight": 2.5,
+      "max_score": 10,
+      "category": "Communication"
+    },
+    {
+      "name": "Completeness",
+      "description": "Whether the document covers all necessary topics comprehensively",
+      "weight": 2.5,
+      "max_score": 10,
+      "category": "Content Quality"
+    },
+    {
+      "name": "Organization and Structure",
+      "description": "Logical flow, coherent structure, and effective use of headings/sections",
+      "weight": 2.0,
+      "max_score": 10,
+      "category": "Structure"
+    },
+    {
+      "name": "Innovation and Insight",
+      "description": "Novel ideas, creative solutions, and valuable insights presented",
+      "weight": 2.0,
+      "max_score": 10,
+      "category": "Content Quality"
+    },
+    {
+      "name": "Evidence and Support",
+      "description": "Quality of supporting evidence, examples, and references provided",
+      "weight": 1.5,
+      "max_score": 10,
+      "category": "Content Quality"
+    },
+    {
+      "name": "Audience Appropriateness",
+      "description": "How well the document is tailored to its intended audience",
+      "weight": 1.5,
+      "max_score": 10,
+      "category": "Communication"
+    },
+    {
+      "name": "Visual Design and Formatting",
+      "description": "Effective use of formatting, layout, and visual elements",
+      "weight": 1.0,
+      "max_score": 10,
+      "category": "Presentation"
+    },
+    {
+      "name": "Conciseness",
+      "description": "Efficient use of language without unnecessary verbosity",
+      "weight": 1.0,
+      "max_score": 10,
+      "category": "Communication"
+    },
+    {
+      "name": "Actionability",
+      "description": "Whether the document provides clear, implementable recommendations",
+      "weight": 1.5,
+      "max_score": 10,
+      "category": "Utility"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_by": "DocEval System",
+    "description": "Comprehensive criteria for evaluating technical and business documents",
+    "total_categories": 5
+  }
+}
